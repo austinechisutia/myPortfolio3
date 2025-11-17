@@ -73,15 +73,15 @@ function randomizeHobbies() {
               link: "https://austinechisutia.github.io/Burger/"
             },
             {
-              title: "Movies . 2025",
-              subtitle: "Your Ultimate Guide to Movies and Webseries",
+              title: "Film . 2025",
+              subtitle: "Production at it's core, showcasing cinematic excellence.",
               achievements: [
                 "Enhanced user experience by 40%",
                 "Improved site speed by 50%",
                 "Increased mobile traffic by 35%"
               ],
               image: "images/web/screenshot4.png",
-              link: "https://austinechisutia.github.io/MovieApp/"
+              link: "https://austinechisutia.github.io/production-power-house/"
             }
           ];
 
