@@ -39,40 +39,29 @@ function randomizeHobbies() {
         
 
         const projects = [
+            // {
+            //   title: "KLINIC . 2025",
+            //   subtitle: "A Modern Web Application for Patients",
+            //   achievements: [
+            //     "Enhanced user experience by 40%",
+            //     "Improved site speed by 50%",
+            //     "Increased mobile traffic by 35%"
+            //   ],
+            //   image: "images/web1.png",
+            //   link: "https://austinechisutia.github.io/Klinic/"
+            // },
             {
-              title: "KLINIC . 2025",
-              subtitle: "A Modern Web Application for Patients",
+              title: "Landlord . 2026",
+              subtitle: "Rent collection and tenant management platform",
               achievements: [
-                "Enhanced user experience by 40%",
-                "Improved site speed by 50%",
-                "Increased mobile traffic by 35%"
+                "Improved rent tracking and operational efficiency",
+                "Simplified tenant management and payment processes",
+                "Increased revenue visibility and reduced manual work"
               ],
-              image: "images/web1.png",
-              link: "https://austinechisutia.github.io/Klinic/"
-            },
-            {
-              title: "Amazon Revamp . 2025",
-              subtitle: "Modern UI/UX redesign for seamless shopping experience.",
-              achievements: [
-                "Boosted sales by 40%",
-                "Expanded customer reach by 35%",
-                "Increased brand awareness by 15%"
-              ],
-              image: "images/web/amazon.png",
+              image: "images/web/landlord.png",
               link: "https://austinechisutia.github.io/shopping-web/"
             },
-            {
-              title: "Restaurant App . 2025",
-              subtitle: "Elegant UI for effortless reservations and menu browsing.",
-              achievements: [
-                "Enhanced user experience by 40%",
-                "Improved site speed by 50%",
-                "Increased mobile traffic by 35%"
-              ],
-              image: "images/web/butger.png",
-              link: "https://austinechisutia.github.io/Burger/"
-            },
-            {
+             {
               title: "Film . 2025",
               subtitle: "Production at it's core, showcasing cinematic excellence.",
               achievements: [
@@ -82,7 +71,19 @@ function randomizeHobbies() {
               ],
               image: "images/web/screenshot4.png",
               link: "https://austinechisutia.github.io/production-power-house/"
+            },
+            {
+              title: "Vigne . 2026",
+              subtitle: "Green Vignea Sustainable Kitchenware Marketplace.",
+              achievements: [
+                "Curated eco-friendly and sustainable kitchen appliances",
+                "Energy-efficient products designed to reduce environmental impact",
+                "Promotes green living through conscious kitchen choices"
+              ],
+              image: "images/web/Vigne.png",
+              link: "#"
             }
+           
           ];
 
 const container = document.getElementById("projects");
